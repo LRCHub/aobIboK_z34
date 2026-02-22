@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Early In The Morning",
+  "base_artist": "The Gap Band",
+  "createdAt": "2026-02-22T12:17:15.589669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Wintersleep",
+      "has_synced": true,
+      "path": "select/01_Early_in_the_Morning_Wintersleep.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Ashanti",
+      "has_synced": true,
+      "path": "select/02_Early_in_the_Morning_Ashanti.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "UPP",
+      "has_synced": false,
+      "path": "select/03_Early_in_the_Morning_UPP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Early In the Morning",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/04_Early_In_the_Morning_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Early In The Morning",
+      "artist": "Shocking Blue",
+      "has_synced": true,
+      "path": "select/05_Early_In_The_Morning_Shocking_Blue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Vanity Fare",
+      "has_synced": true,
+      "path": "select/06_Early_in_the_Morning_Vanity_Fare.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/07_Early_in_the_Morning_Buddy_Holly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Early In The Morning",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/08_Early_In_The_Morning_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Nilsson",
+      "has_synced": true,
+      "path": "select/09_Early_in_the_Morning_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/10_Early_in_the_Morning_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/11_Early_in_the_Morning_Buddy_Holly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Holly, Buddy",
+      "has_synced": true,
+      "path": "select/12_Early_in_the_Morning_Holly,_Buddy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Bobby Darin",
+      "has_synced": true,
+      "path": "select/13_Early_in_the_Morning_Bobby_Darin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Shocking Blue",
+      "has_synced": true,
+      "path": "select/14_Early_in_the_Morning_Shocking_Blue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Peter",
+      "has_synced": true,
+      "path": "select/15_Early_in_the_Morning_Peter.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Early In The Morning",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/16_Early_In_The_Morning_Buddy_Holly.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "Buddy Holly",
+      "has_synced": true,
+      "path": "select/17_Early_in_the_Morning_Buddy_Holly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Early In The Morning",
+      "artist": "The Gap Band",
+      "has_synced": false,
+      "path": "select/pl_01_Early_In_The_Morning_The_Gap_Band.txt"
+    }
+  ]
+}
